@@ -129,7 +129,7 @@ public class TestShiro {
 			//验证错误
 			return false;
 		}				
-		
+		//123456
 		return subject.isAuthenticated();
 	}
     
